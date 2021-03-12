@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @bokilex (Bogdan)
+- 👀 I’m interested in programming, Linux, ethical hacking...
+- 🌱 I’m currently learning ethical hacking and C
